@@ -1,2 +1,2 @@
 # ku-mean-cpctln
-ทดสอบการใช้งาน Git สำหรับโปรเจด MEAN Stack
+ทดสอบการใช้งาน Git สำหรับโปรเจค MEAN Stack
